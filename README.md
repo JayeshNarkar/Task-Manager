@@ -2,6 +2,10 @@
 
 >Video Demo:  [link](https://youtu.be/J-bWzcZcBO4?si=1lB0jlfBU8F8G8tv)
 
+## Preview 
+
+![Two Menus for the Project](Preview.png)
+
 ## Description:
 
 **Program Description**
